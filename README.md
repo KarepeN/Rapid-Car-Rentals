@@ -26,10 +26,7 @@
 
 
 ### Project Charter
-This is the project charter for the Rapid-car-rentals project. This application will be delivered as a web application.
-it has information about team and their roles,schedule,budget,scope etc.
-<br>
-For detailed information [click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/charter.md)
+[click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/charter.md)
 
 ### Scope
 The project Rapid-Car-Rentals has the following steps to complete the Project Successfully
@@ -87,6 +84,10 @@ e)**_Deployment_:** After we successfully finish the Testing we would proceed wi
 
 
 ### Budget
+* Project budget helps in estimate the total cost of a project that are likely to be incurred before the project is completed.
+* It helps the stakeholders to know how much money is needed and when it is needed.
+* Budgets are classified into three categories- balanced budget, surplus budget and deficit budget.
+
 <img src="images/budget.png" alt="drawing" width="550" style="border-radius:50%" /> 
 
 Total Budget Required For This Project = $73,275
