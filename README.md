@@ -84,6 +84,10 @@ e)**_Deployment_:** After we successfully finish the Testing we would proceed wi
 
 
 ### Budget
+* Project budget helps in estimate the total cost of a project that are likely to be incurred before the project is completed.
+* It helps the stakeholders to know how much money is needed and when it is needed.
+* Budgets are classified into three categories- balanced budget, surplus budget and deficit budget.
+
 <img src="images/budget.png" alt="drawing" width="550" style="border-radius:50%" /> 
 
 Total Budget Required For This Project = $73,275
@@ -97,5 +101,5 @@ Total Budget Required For This Project = $73,275
 
   - Work Break Down structure: https://www.projectmanager.com/work-breakdown-structure
 
-	- Project Scope: https://thedigitalprojectmanager.com/project-scope-statement/
+   - Project Scope: https://thedigitalprojectmanager.com/project-scope-statement/
 	 
