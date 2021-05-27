@@ -69,8 +69,8 @@ e)**_Deployment_:** After we successfully finish the Testing we would proceed wi
 - Scheduling in project management is the listing of activities, deliverables, and milestones within a project.
 - It also includes a planned start and finish date, duration, and resources assigned to each activity.
 - Start date - 5/25/21
-- End date - 7/13/21
-[Click Here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/Schedule/schedule.md)
+- End date - 7/13/21<br>
+[To view Detail Schedule](https://github.com/KarepeN/pm-s04-g01-project/blob/main/Schedule/schedule.md)
 ##### Requirement Analysis
 * start date 5/25/21
 * end date 6/28/21
