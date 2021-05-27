@@ -26,6 +26,8 @@ After successful payment he would be directed to the page to display the address
 *   Ability to skip the line when you drop off your car.
 *   Access to deals and rewards.
   
+ ## Success Criteria:
+The Application should be user-friendly without any errors and the entire application needs to be tested to meet the customer requirements and satisfaction
 
 ## Schedule 
 |     start date              | end date           |   duration    |
