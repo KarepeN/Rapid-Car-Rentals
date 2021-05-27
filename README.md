@@ -64,7 +64,9 @@ e)**_Deployment_:** After we successfully finish the Testing we would proceed wi
 ### Schedule
 - Scheduling in project management is the listing of activities, deliverables, and milestones within a project.
 - It also includes a planned start and finish date, duration, and resources assigned to each activity.
-
+- Start date - 5/25/21
+- End date - 7/13/21
+[Click Here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/Schedule/schedule.md)
 ##### Requirement Analysis
 * start date 5/25/21
 * end date 6/28/21
@@ -90,7 +92,7 @@ e)**_Deployment_:** After we successfully finish the Testing we would proceed wi
 * Project budget helps in estimate the total cost of a project that are likely to be incurred before the project is completed.
 * It helps the stakeholders to know how much money is needed and when it is needed.
 * Budgets are classified into three categories- balanced budget, surplus budget and deficit budget.
-
+[Click Here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/Budget/Budget.xlsx)
 <img src="images/budget.png" alt="drawing" width="550" style="border-radius:50%" /> 
 
 Total Budget Required For This Project = $73,275
