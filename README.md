@@ -29,7 +29,7 @@
 This is the project charter for the Rapid-car-rentals project. This application will be delivered as a web application. 
 it consists information about scope,budget,schedule,team members etc
 <br>
-for more information [click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/charter.md)
+**For detailed Information:** [click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/charter.md)
 ### Scope
 The project Rapid-Car-Rentals has the following steps to complete the Project Successfully
 
@@ -61,7 +61,7 @@ e)**_Deployment_:** After we successfully finish the Testing we would proceed wi
 * **Deployment Review of website:** This would deal with review of website
 
 
- **Tree Structure for WBS:** [Click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/WBS/wbs.PNG)
+ **Tree Structure for WBS:** [Click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/WBS/wbs.PNG)<br>
  **Detailed WBS:** : [Gantt Chart](https://github.com/KarepeN/pm-s04-g01-project/tree/main/WBS)
  
 
