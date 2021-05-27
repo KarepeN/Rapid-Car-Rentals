@@ -90,7 +90,7 @@ TOTAL BUDGET FOR THE PROJECT 			 $73,275
    
    |    constarint    |          | 
   | -------------         |:-------------:| 
- |       Budget     |       There is a fixed budget that cannot be exceeded Due Date      |
+ |       Budget     |       There is a fixed budget that cannot be exceeded      |
   |       Due Date     |     The due date for this project cannot change       |
  
  
