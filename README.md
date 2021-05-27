@@ -26,7 +26,9 @@
 
 
 ### Project Charter
-[click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/charter.md)
+This is the project charter for the Rapid-car-rentals project. This application will be delivered as a web application.
+it has information about team and their roles,schedule,budget,scope.
+For detailed information [click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/charter.md)
 
 ### Scope
 The project Rapid-Car-Rentals has the following steps to complete the Project Successfully
