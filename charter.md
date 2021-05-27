@@ -94,4 +94,7 @@ TOTAL BUDGET FOR THE PROJECT 			 $73,275
   |       Due Date     |     The due date for this project cannot change       |
  
  
-
+### References
+  -  https://projectmanagementskills.info/project-charter/
+   
+  - https://profcase.github.io/project-charter-template/#benefits
