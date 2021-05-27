@@ -40,7 +40,7 @@ The Application should be user-friendly without any errors and the entire applic
 * phase4 will be completed in 1 week
 * phase5 will be completed in 1 week
 
-the complete schedule is shown in [Gantt-chart](https://github.com/KarepeN/pm-s04-g01-project/blob/main/WBS/wbs%20structure.png)   
+the complete schedule is shown in [Gantt-chart](https://github.com/KarepeN/pm-s04-g01-project/blob/main/WBS/WBS%20picture.png)   
 
 ## Scope
 The project Rapid-Car-Rentals has the following steps to complete the Project Successfully
