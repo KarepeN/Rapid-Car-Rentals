@@ -44,12 +44,34 @@ e)_Deployment_: After we successfully finish the Testing we would proceed with d
 Structure for WBS:[Click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/WBS/WBS%20picture.png)
 
 ### Schedule
-[click here](https://github.com/KarepeN/pm-s04-g01-project/tree/main/Schedule)
+#### Requirement Analysis
+* start date 5/25/21
+* end date 6/28/21
+
+#### Design for Website
+* start date 5/25/21
+* end date 6/28/21
+
+#### Execution Phase
+* start date 5/25/21
+* end date 7/1/21
+
+### Testing Phase
+* start date 6/14/21
+* end date 7/1/21
+
+#### Deployment
+* start date 6/25/21
+* end date 7/13/21
+
 
 ### Budget
-[click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/Budget/Budget.xlsx)
+<img src="images/budget01.png" alt="drawing" width="550" style="border-radius:50%" /> 
+<img src="images/budget02.png" alt="drawing" width="550" style="border-radius:50%" /> 
 
 ### References
-   https://projectmanagementskills.info/project-charter/
-   https://profcase.github.io/project-charter-template/#benefits
-   https://excelshe.com/project-plan-templates/project-charter/
+  -  https://projectmanagementskills.info/project-charter/
+   
+  - https://profcase.github.io/project-charter-template/#benefits
+   
+  - https://excelshe.com/project-plan-templates/project-charter/
