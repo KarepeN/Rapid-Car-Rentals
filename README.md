@@ -51,3 +51,5 @@ Structure for WBS:[Click here](https://github.com/KarepeN/pm-s04-g01-project/blo
 
 ### References
    https://projectmanagementskills.info/project-charter/
+   https://profcase.github.io/project-charter-template/#benefits
+   https://excelshe.com/project-plan-templates/project-charter/
