@@ -59,7 +59,8 @@ e)**_Deployment_:** After we successfully finish the Testing we would proceed wi
 * **Deployment Review of website:** This would deal with review of website
 
 
- **Tree Structure for WBS:** [Click here](https://github.com/Maruthi158/pm-s04-g01-project/blob/main/WBS/wbs%20structure.png)
+ **Tree Structure for WBS:** [Click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/WBS/wbs.PNG)
+ 
 
 ### Schedule
 - Scheduling in project management is the listing of activities, deliverables, and milestones within a project.
