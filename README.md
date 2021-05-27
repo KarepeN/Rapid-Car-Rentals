@@ -31,17 +31,35 @@
 ### Scope
 The project Rapid-Car-Rentals has the following steps to complete the Project Successfully
 
-a)_Requirement Analysis_: In this Phase we would collect and finalize requirements from the Client to complete the online website with discussed functionalities.
+a)**_Requirement Analysis_**: In this Phase we would collect and finalize requirements from the Client to complete the online website with discussed functionalities.This phase consists of three subtasks:<br>
+* **Gathering Requirements:** This phase would deal with collection of requirements from the client<br>
+* **Finalize Requiremnents :** This phase would deal with Finalize of requriements<br>
+* **Initial Review:** This would deal with review of requirements<br>
 
-b)_Design for Website_: In this Phase The team would come up with initial Design for the website and then complete the Design in a working model and we would have a review design meeting to finalize the Design for website
+b)**_Design for Website_:** In this Phase The team would come up with initial Design for the website and then complete the Design in a working model and we would have a review design meeting to finalize the Design for website.This phase would consists of subtasks:<br>
+* **Initial Design Plan:** This would deal with building intial design for the website
+* **Build Complete Design:** This would deal with building complete design for the website
+* **Review Design:** This would deal with review of the Design
 
-c)_Execution Phase_: In this Phase we would start EXecuting the Project part by part and finally we will merge the code to build the complete website
 
-d)_Testing Phase_: In this Phase we would perform all kind of Scenarios to be tested whether this is satisfying all the criteria according to the Project defined Scope.
+c)**_Execution Phase_:** In this Phase we would start EXecuting the Project part by part and finally we will merge the code to build the complete website.This phase would consists of following subtasks.<br>
+* **Development of Code For Part A:** This phase would deal with the Development of Code
+* **Development of Code For Part B:** This phase would deal with the Development of Code
+* **Code merging:** This phase would help in code merging which was developed using two previous parts
 
-e)_Deployment_: After we successfully finish the Testing we would proceed with deployment to process the code to real time environment.
 
-Structure for WBS:[Click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/WBS/WBS%20picture.png)
+d)**_Testing Phase_:** In this Phase we would perform all kind of Scenarios to be tested whether this is satisfying all the criteria according to the Project defined Scope.This phase would consists of following subtasks:
+* **Testing Phase 1 :** This phase would deal with the testing of the website.
+* **Testing Phase2 :**  This phase would deal with the testing of the website.
+* **Completing Testing of Website:**  This phase would deal with the completing testing of the website.
+
+
+e)**_Deployment_:** After we successfully finish the Testing we would proceed with deployment to process the code to real time environment.This would has the following subtasks.
+* **Deployment of website:** This would deal with the deployment of website.
+* **Deployment Review of website:** This would deal with review of website
+
+
+ **Tree Structure for WBS:** [Click here](https://github.com/Maruthi158/pm-s04-g01-project/blob/main/WBS/wbs%20structure.png)
 
 ### Schedule
 ##### Requirement Analysis
