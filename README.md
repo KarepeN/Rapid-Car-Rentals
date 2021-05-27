@@ -60,6 +60,7 @@ e)**_Deployment_:** After we successfully finish the Testing we would proceed wi
 
 
  **Tree Structure for WBS:** [Click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/WBS/wbs.PNG)
+ **Detailed WBS:** : [Gantt Chart](https://github.com/KarepeN/pm-s04-g01-project/tree/main/WBS)
  
 
 ### Schedule
@@ -101,13 +102,13 @@ To view the detail budget  [Click Here](https://github.com/KarepeN/pm-s04-g01-pr
 Total Budget Required For This Project = $73,275
 
 ### References
-  1. Skills
-      https://projectmanagementskills.info/project-charter
-  2. Project charter :
-     https://profcase.github.io/project-charter-template/#benefit
-     https://excelshe.com/project-plan-templates/project-charter/
-  3. Work Break Down structure: 
-     https://www.projectmanager.com/work-breakdown-structure
-  4. Project Scope: 
-     https://thedigitalprojectmanager.com/project-scope-statement/
+  1. Skills:<br>
+  * https://projectmanagementskills.info/project-charter
+  2. Project charter :<br>
+  * https://profcase.github.io/project-charter-template/#benefit<br>
+  * https://excelshe.com/project-plan-templates/project-charter/
+  3. Work Break Down structure: <br>
+  * https://www.projectmanager.com/work-breakdown-structure
+  4. Project Scope: <br>
+  * https://thedigitalprojectmanager.com/project-scope-statement/
 	 
