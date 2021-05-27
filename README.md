@@ -93,13 +93,13 @@ e)**_Deployment_:** After we successfully finish the Testing we would proceed wi
 Total Budget Required For This Project = $73,275
 
 ### References
-  - https://projectmanagementskills.info/project-charter/
-   
-  - https://profcase.github.io/project-charter-template/#benefits
-   
-  - https://excelshe.com/project-plan-templates/project-charter/
-
-  - Work Break Down structure: https://www.projectmanager.com/work-breakdown-structure
-
-   - Project Scope: https://thedigitalprojectmanager.com/project-scope-statement/
+  1. Skills
+      https://projectmanagementskills.info/project-charter
+  2. Project charter :
+     https://profcase.github.io/project-charter-template/#benefit
+     https://excelshe.com/project-plan-templates/project-charter/
+  3. Work Break Down structure: 
+     https://www.projectmanager.com/work-breakdown-structure
+  4. Project Scope: 
+     https://thedigitalprojectmanager.com/project-scope-statement/
 	 
