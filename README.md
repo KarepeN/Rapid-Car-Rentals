@@ -95,3 +95,9 @@ Total Budget Required For This Project = $73,275
 - https://profcase.github.io/project-charter-template/#benefits
    
 - https://excelshe.com/project-plan-templates/project-charter/
+
+2.Work Break Down structure: 
+* https://www.projectmanager.com/work-breakdown-structure
+
+3.Project Scope: 
+* https://thedigitalprojectmanager.com/project-scope-statement/
