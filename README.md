@@ -19,8 +19,8 @@
 * Tejaswi Avula as Scrum master
 <br>
 
-<img src="images/Nithya.jpg" alt="drawing" width="150" style="border-radius:50%" />                <img src="images/Priyanka.jpg" alt="drawing" width="150" style="border-radius:50%" />
-<img src="images/vani.jpg.png" alt="drawing" width="150" style="border-radius:50%" />               <img src="images/Tejaswi.jpg" alt="Tejaswi" width="150" style="border-radius:50%"/>
+<img class='img-circle' src="images/Nithya.jpg" alt="drawing" width="150" style="border-radius:50%" />               <img class='img-circle' src="images/Priyanka.jpg" alt="drawing" width="150" style="border-radius:50%" />
+<img class='img-circle' src="images/vani.jpg.png" alt="drawing" width="150" style="border-radius:50%" />               <img src="images/Tejaswi.jpg" alt="Tejaswi" width="150" style="border-radius:50%"/>
 
   [Nithya Karepe](https://github.com/KarepeN) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Priyanka Maruthi](https://github.com/Maruthi158)             &nbsp;&nbsp;&nbsp;&nbsp;   [Shivani Tangellapally](https://github.com/shivani-ta)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [Tejaswi Avula](https://github.com/tejaavula)
 
@@ -89,15 +89,8 @@ e)**_Deployment_:** After we successfully finish the Testing we would proceed wi
 Total Budget Required For This Project = $73,275
 
 ### References
-1.Project Charter:
--  https://projectmanagementskills.info/project-charter/
+  -  https://projectmanagementskills.info/project-charter/
    
-- https://profcase.github.io/project-charter-template/#benefits
+  - https://profcase.github.io/project-charter-template/#benefits
    
-- https://excelshe.com/project-plan-templates/project-charter/
-
-2.Work Break Down structure: 
-* https://www.projectmanager.com/work-breakdown-structure
-
-3.Project Scope: 
-* https://thedigitalprojectmanager.com/project-scope-statement/
+  - https://excelshe.com/project-plan-templates/project-charter/
