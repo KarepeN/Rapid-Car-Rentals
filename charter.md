@@ -53,4 +53,32 @@ d)Testing Phase: In this Phase we would perform all kind of Scenarios to be test
 
 e)Deployment: After we successfully finish the Testing we would proceed with deployment to process the code to real time environment.
 
+## Budget
+Budget given for employees 
+<br>
+|    Role    |      Hours/week     |    Hourly wage    |     Salary     |
+| -------------         |:-------------:|    ------------- | ------------- |
+| project manager         |   2   |    $50   |    $1400  |
+| scrum master         |    10    |    $60    |   $8400   | 
+| developer         |     20     |    $80     |        $22400    |
+| designer         |      15     |    $65     |    $13650    |
 
+
+	TOTAL SPENT ON SALARY		 $45,850 	
+
+<br>
+
+BUDGET SPENT ON EQUIPMENT
+<br>
+|    EQUIPMENT    |     NUMBER OF UINTS     |    COST PER UNIT    |     TOTAL     |
+| -------------         |:-------------:|    ------------- | ------------- |
+| SYSTEMS         |   4   |    $200   |    $800   |
+| DESIGNING TOOLS        |    4    |    $350    |   $1,400   | 
+| TESTING TOOLS         |     1     |    $225     |        $225    |
+| SERVERS         |      25     |    $1,000     |    $25,000    |
+
+			
+	TOTAL SPENT ON EQUIPMENT		 $27,425 
+			
+			
+TOTAL BUDGET FOR THE PROJECT 			 $73,275 
