@@ -26,6 +26,8 @@ After successful payment he would be directed to the page to display the address
 *   Ability to skip the line when you drop off your car.
 *   Access to deals and rewards.
   
+ ## Success Criteria:
+The Application should be user-friendly without any errors and the entire application needs to be tested to meet the customer requirements and satisfaction
 
 ## Schedule 
 |     start date              | end date           |   duration    |
@@ -38,7 +40,7 @@ After successful payment he would be directed to the page to display the address
 * phase4 will be completed in 1 week
 * phase5 will be completed in 1 week
 
-the complete schedule is shown in [Gantt-chart](https://github.com/KarepeN/pm-s04-g01-project/blob/main/WBS/wbs%20structure.png)   
+the complete schedule is shown in [Gantt-chart](https://github.com/KarepeN/pm-s04-g01-project/blob/main/WBS/WBS%20picture.png)   
 
 ## Scope
 The project Rapid-Car-Rentals has the following steps to complete the Project Successfully
@@ -82,3 +84,14 @@ BUDGET SPENT ON EQUIPMENT
 			
 			
 TOTAL BUDGET FOR THE PROJECT 			 $73,275 
+
+## Constarints
+
+   
+   |    constarint    |          | 
+  | -------------         |:-------------:| 
+ |       Budget     |       There is a fixed budget that cannot be exceeded Due Date      |
+  |       Due Date     |     The due date for this project cannot change       |
+ 
+ 
+
