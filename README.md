@@ -66,7 +66,7 @@ Structure for WBS:[Click here](https://github.com/KarepeN/pm-s04-g01-project/blo
 
 
 ### Budget
-<img src="images/budget01.png" alt="drawing" width="550" style="border-radius:50%" /> 
+<img src="images/budget.png" alt="drawing" width="550" style="border-radius:50%" /> 
 
 Total Budget Required For This Project = $73,275
 
