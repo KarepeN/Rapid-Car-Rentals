@@ -44,23 +44,23 @@ e)_Deployment_: After we successfully finish the Testing we would proceed with d
 Structure for WBS:[Click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/WBS/WBS%20picture.png)
 
 ### Schedule
-#### Requirement Analysis
+##### Requirement Analysis
 * start date 5/25/21
 * end date 6/28/21
 
-#### Design for Website
+##### Design for Website
 * start date 5/25/21
 * end date 6/28/21
 
-#### Execution Phase
+##### Execution Phase
 * start date 5/25/21
 * end date 7/1/21
 
-### Testing Phase
+##### Testing Phase
 * start date 6/14/21
 * end date 7/1/21
 
-#### Deployment
+##### Deployment
 * start date 6/25/21
 * end date 7/13/21
 
