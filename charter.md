@@ -84,3 +84,14 @@ BUDGET SPENT ON EQUIPMENT
 			
 			
 TOTAL BUDGET FOR THE PROJECT 			 $73,275 
+
+## Constarints
+
+   
+   |    constarint    |          | 
+  | -------------         |:-------------:| 
+ |       Budget     |       There is a fixed budget that cannot be exceeded Due Date      |
+  |       Due Date     |     The due date for this project cannot change       |
+ 
+ 
+
