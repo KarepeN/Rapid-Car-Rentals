@@ -62,6 +62,9 @@ e)**_Deployment_:** After we successfully finish the Testing we would proceed wi
  **Tree Structure for WBS:** [Click here](https://github.com/Maruthi158/pm-s04-g01-project/blob/main/WBS/wbs%20structure.png)
 
 ### Schedule
+- Scheduling in project management is the listing of activities, deliverables, and milestones within a project.
+- It also includes a planned start and finish date, duration, and resources assigned to each activity.
+
 ##### Requirement Analysis
 * start date 5/25/21
 * end date 6/28/21
