@@ -61,7 +61,7 @@ e)**_Deployment_:** After we successfully finish the Testing we would proceed wi
 * **Deployment Review of website:** This would deal with review of website
 
 
- **Tree Structure for WBS:** [Click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/WBS/wbs.PNG)<br>
+ **Tree Structure for WBS:** [Click here](https://github.com/KarepeN/pm-s04-g01-project/blob/main/WBS/gantt1.PNG)<br>
  **Detailed WBS:** : [Gantt Chart](https://github.com/KarepeN/pm-s04-g01-project/tree/main/WBS)
  
 
