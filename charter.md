@@ -34,11 +34,7 @@ The Application should be user-friendly without any errors and the entire applic
 | -------------         |:-------------:|    -------------   |
 | 05/25/21         | 08/10/21 |      14 weeks          |
 
-* phase1 will be completed in 4 weeks.
-* phase2 will be completed in 4 weeks
-* phase3 will be completed in 4 weeks
-* phase4 will be completed in 1 week
-* phase5 will be completed in 1 week
+
 
 the complete schedule is shown in [Gantt-chart](https://github.com/KarepeN/pm-s04-g01-project/blob/main/WBS/wbs.PNG)   
 
