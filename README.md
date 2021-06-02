@@ -71,7 +71,7 @@ e)**_Deployment_:** After we successfully finish the Testing we would proceed wi
 - Start date - 5/25/21
 - End date - 8/10/21<br>
 - [To view Detail Schedule](https://github.com/KarepeN/pm-s04-g01-project/blob/main/Schedule/schedule.md)
-- 
+
 #### Requirement Analysis
 * start date 5/25/21
 * end date 6/10/21
@@ -108,6 +108,7 @@ Total Budget Required For This Project = $73,275
 ### References
  
   1. Project charter :<br>
+ 
   * https://profcase.github.io/project-charter-template/#benefit<br>
   * https://excelshe.com/project-plan-templates/project-charter/
   2. Work Break Down structure: <br>
