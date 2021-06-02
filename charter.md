@@ -32,7 +32,7 @@ The Application should be user-friendly without any errors and the entire applic
 ## Schedule 
 |     start date              | end date           |   duration    |
 | -------------         |:-------------:|    -------------   |
-| 05/25/21         | 07/13/21 |      14 weeks          |
+| 05/25/21         | 08/10/21 |      14 weeks          |
 
 * phase1 will be completed in 4 weeks.
 * phase2 will be completed in 4 weeks
